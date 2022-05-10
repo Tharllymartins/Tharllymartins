@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 ### Olá! Sou Tharlly Martins 👋
 
-
-- Contatos
-- Whatsapp: (91) 98492-0007
-- Linkedin: https://www.linkedin.com/in/tharlly-alves-martins-84702118a/
  <div>
   <a href="https://github.com/Tharllymartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharllymartins&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
