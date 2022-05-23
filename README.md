@@ -38,5 +38,5 @@ Here are some ideas to get you started:
   <a href = "mailto:tharllymartins16@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/tharlly-alves-martins-84702118a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
-   <a href="https://wa.link/oty5zq" target="_blank" > <img src="[https://logodownload.org/wp-content/uploads/2015/04/whatsapp-logo-.png](https://img.shields.io/badge/-whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white)" /> </a>
+   <a href="https://wa.link/oty5zq" target="_blank" > <img src="https://img.shields.io/badge/-whatsapp-%230077B5?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
  </div>
