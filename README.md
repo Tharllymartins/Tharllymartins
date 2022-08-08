@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 
 ### Olá! Sou Tharlly Martins 👋
 
+- ⚡ Sou apaixonado por tecnologia
+- 🔭 Estou trabalhando atualmente como P.O na Pulse/GrupoMateus
+
  <div>
   <a href="https://github.com/Tharllymartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tharllymartins&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -24,7 +27,7 @@ Here are some ideas to get you started:
   <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="" height="30" width="40" src="https://user-images.githubusercontent.com/58658882/183513460-0b905584-431d-4ff3-9aaa-8ff674017d1f.svg">
+  <img align="center" alt="" height="30" width="28" src="https://user-images.githubusercontent.com/58658882/183513460-0b905584-431d-4ff3-9aaa-8ff674017d1f.svg">
   <img align="center" alt="t" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
