@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Olá! Sou Tharlly Martins 👋
 
 - ⚡ Sou apaixonado por tecnologia
-- 🔭 Estou trabalhando atualmente como P.O na Pulse/GrupoMateus
+- 🔭 Estou trabalhando atualmente como desenvolvedor python na Pulse/GrupoMateus
 
  <div>
   <a href="https://github.com/Tharllymartins">
